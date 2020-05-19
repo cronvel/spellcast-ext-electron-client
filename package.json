@@ -1,6 +1,6 @@
 {
   "name": "spellcast-ext-electron-client",
-  "version": "0.50.2",
+  "version": "0.50.3",
   "description": "Spellcast's Electron Client extension.",
   "main": "lib/extension.js",
   "engines": {
