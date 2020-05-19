@@ -1,6 +1,6 @@
 {
   "name": "spellcast-ext-electron-client",
-  "version": "0.50.3",
+  "version": "0.50.4",
   "description": "Spellcast's Electron Client extension.",
   "main": "lib/extension.js",
   "engines": {
@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "electron": "^8.3.0",
+    "exm": "github:cronvel/exm",
     "minimist": "^1.2.5"
   },
   "devDependencies": {},
